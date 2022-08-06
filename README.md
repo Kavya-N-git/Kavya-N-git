@@ -1,14 +1,10 @@
 ### Hi Folks 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-n-013288199/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-n-013288199/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-Kavya-green)](https://kavya-n-git.github.io/Kavya-Portfolio/)
+[![Website Badge](https://img.shields.io/badge/Codechef-Kavya-yellow)](https://www.codechef.com/users/k_a_v_y_a)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+Full-stack web development intern at edureka and pursuing Master of Computer Applications in R.V College of Engneering, Bengaluru, Karnataka. I always inclined towards web development and built projects using web technologies,python3 and android. I'm excited to learn new things and implement to meet real world requirement. 
 
 ![Visitor Count](https://profile-counter.glitch.me/kavya-n-git/count.svg)
 
