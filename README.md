@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-n-013288199/)
 [![Website Badge](https://img.shields.io/badge/Portfolio-Kavya-green)](https://kavya-n-git.github.io/Kavya-Portfolio/)
 [![Website Badge](https://img.shields.io/badge/Codechef-Kavya-yellow)](https://www.codechef.com/users/k_a_v_y_a)
+[![Website Badge](https://img.shields.io/badge/SoloLearn-Kavya-orange)](https://www.sololearn.com/profile/7959413)
 
 I'm
 Full-stack web development intern at edureka and pursuing Master of Computer Applications in R.V College of Engneering, Bengaluru, Karnataka. I always inclined towards web development and built projects using web technologies,python3 and android. I'm excited to learn new things and implement to meet real world requirement. 
