@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/SoloLearn-Kavya-orange)](https://www.sololearn.com/profile/7959413)
 
 I'm
-graduated in  Master of Computer Applications from R.V College of Engneering, Bengaluru, Karnataka. I always inclined towards web development and built projects using web technologies,python3 and android and pursuing Full Stack Web development certification from Edureka. I'm excited to learn new things and implement to meet real world requirement. 
+currently working as Associate Software Engineer at Kaplan,Inc and graduated in  Master of Computer Applications from R.V College of Engneering, Bengaluru, Karnataka. I always inclined towards web development and built projects using web technologies,python3 and android and pursuing Full Stack Web development certification from Edureka. I'm excited to learn new things and implement to meet real world requirement. 
 
 ![Visitor Count](https://profile-counter.glitch.me/kavya-n-git/count.svg)
 
